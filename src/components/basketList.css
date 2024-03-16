@@ -1,0 +1,5 @@
+.basket-list {
+    max-height: 300px;
+    overflow-y: auto;
+    padding: 1%;
+}
